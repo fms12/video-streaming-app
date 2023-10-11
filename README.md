@@ -2,6 +2,7 @@ A Netflix UI clone `React.js` and `node`.:
 
 ![React](https://img.shields.io/badge/react%20js-17.0.2-blue/?style=for-the-badge&logo=react)  ![PYTHON](https://img.shields.io/node/v/passport?style=for-the-badge)
 
+[![WATCH PREVIEW]([https://github.com/fms12/video-streaming-app/assets/68012074/5b40aa05-6a3f-4ff6-af64-3426f6ec69e1})](https://youtu.be/xAjE-PlVLzc) :->  https://youtu.be/xAjE-PlVLzc
 
 ![App Screenshot](https://i.ibb.co/MNK6jzc/Screenshot-57.png)
 
